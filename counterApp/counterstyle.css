@@ -1,0 +1,22 @@
+.btn {
+
+    color: rgb(255, 255, 255);
+    background-color: rgb(96, 182, 182);
+    padding: 10px 20px;
+    transition: background-color 0.25s ease-in ;
+    border-radius: 20px ;
+
+}
+.btn:hover {
+    background-color: rgb(182, 127, 233);
+}
+#counterLab {
+    display: block;
+    text-align: center;
+    font-size: 10em;
+
+}#buttonsc {
+    text-align: center;
+    
+};
+
